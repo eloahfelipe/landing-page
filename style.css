@@ -1,0 +1,35 @@
+#topo_contatos{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    background-color: #252B42;
+    color: #fff;
+    
+    font-weight: 600;
+
+    height: 58px;
+
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.contato{
+    display: flex;
+}
+
+.telefone{
+    padding-right: 15px;
+}
+
+.redes-sociais{
+    display: flex;
+}
+
+.texto-seguir{
+    padding-right: 15px;
+}
+
+.redes i {
+    padding-right: 5px;
+}
